@@ -3,5 +3,5 @@ RemoteSystemsTempFiles
 .settings/
 .classpath
 .project
-TryOnJenkinsPrject/build/
-TryOnJenkinsPrject/target/
+*/build/
+*/target/
